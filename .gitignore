@@ -1,0 +1,10 @@
+*.env
+*.zip
+*.json
+.idea/
+Export/
+__pycache__/
+flask_api_original.py
+shitty_spotipy_legacy.py
+sandbox.py
+flask_api.py
